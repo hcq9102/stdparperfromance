@@ -5,7 +5,7 @@ Env prepare:
     
     ml use /global/cfs/cdirs/m1759/wwei/nvhpc_23_7/modulefiles ; ml unload cudatoolkit ; ml nvhpc/23.1 cmake/3.24
 
-1. download: git clone 
+1. download: git clone https://github.com/hcq9102/stdparperfromance.git
 2. generate matrix for choleskey decomposition: input_generate.ipynb 
 3. GPU build:
    
